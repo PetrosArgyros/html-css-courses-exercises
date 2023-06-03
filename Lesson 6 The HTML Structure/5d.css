@@ -1,0 +1,22 @@
+.title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.link {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(32, 127, 229);
+}
