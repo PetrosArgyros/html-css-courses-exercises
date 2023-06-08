@@ -1,0 +1,13 @@
+.body {
+    height: 3000px;
+}
+
+.sidebar-right {
+    background-color: green;
+    color: white;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 50px;
+    width: 100p
+}
